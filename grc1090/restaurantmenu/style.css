@@ -12,12 +12,12 @@ body {
 }
 
 h1 {
-	background-color: Blue;
-	color: _______; /* Same as body background. */
-	font-size: _______;
-	padding: ____ ____ ____; /* You want three values. */
-	font-weight: _______;
-	text-transform: _______;
+	background-color: Red;
+	color: Gold; /* Same as body background. */
+	font-size: 40;
+	padding: 2px solid powderblue; /* You want three values. */
+	font-weight: Bold;
+	text-transform: uppercase;
 }
 
 
