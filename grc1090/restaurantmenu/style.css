@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-	color: #BD8FE3; /* Same as body background. */
+	color: Gold; /* Same as body background. */
 	font-size: 200%;
 	padding: 2px 10px 2px; /* You want three values. */
 	font-weight: Bold;
