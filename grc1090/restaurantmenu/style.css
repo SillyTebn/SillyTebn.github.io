@@ -21,12 +21,11 @@ h1 {
 
 
 h2 {
-	background-color: _______;
 	color: _______;
-	font-size: _______;
+	font-size: 35;
 	padding: _______;
-	font-family: _______;
-	font-weight: _______;
+	font-family: Arial;
+	font-weight: Normal;
 }
 
 h3 {
