@@ -9,6 +9,7 @@ body {
 	color: #000E36;  /* Not totally black. */
 	line-height: 140%; 	/* A little extra leading. */
 	font-family: Times New Roman;
+	margin: 10px 100px 10px
 }
 
 h1 {
