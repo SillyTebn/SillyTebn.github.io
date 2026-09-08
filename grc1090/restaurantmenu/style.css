@@ -32,23 +32,23 @@ h3 {
 	margin: 10px 100px 10px; /*Three values again. You got the idea.*/
 	padding-top: 5px;
 	font-size: 200%;
-	color: _______;
-	font-weight: _______;
-	text-transform: _______;
-	letter-spacing: ____; /*Just an extra tracking for bold uppercase letters. Try 0.1em */
-	border-top: ____ ____ ____;
+	color: black;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 0.1em; /*Just an extra tracking for bold uppercase letters. Try 0.1em */
+	border-top: 5px solid red;
 }
 
 h4 {
-	font-weight: _______;
+	font-weight: Bold;
 }
 
-p.description {
-	font-style: _______;
+h5 {
+	font-style: italic;
 }
 
-p.price {
-	color: _______;
+h6 {
+	color: red;
 }
 
 ul {
