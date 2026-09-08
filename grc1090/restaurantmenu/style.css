@@ -5,7 +5,7 @@ html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, 
 
 
 body {
-	background-color: #BD8FE3; /* Not totally white. */
+	background-color: #B5D8F7; /* Not totally white. */
 	color: #000E36;  /* Not totally black. */
 	line-height: 140%; 	/* A little extra leading. */
 	font-family: Times New Roman;
@@ -55,10 +55,10 @@ h6 {
 }
 
 ul {
-	margin: ____ ____ ____;
+	margin: 10px 10px 10px;
 }
 
 li { 
-	margin: ____ ____;
-	list-style-type: ____;
+	margin: 10px 5px;
+	list-style-type: upper-roman;
 }
