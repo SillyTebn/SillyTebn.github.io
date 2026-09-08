@@ -5,14 +5,14 @@ html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, 
 
 
 body {
-	background-color: #AFF6FA; /* Not totally white. */
+	background-color: #BD8FE3; /* Not totally white. */
 	color: #000E36;  /* Not totally black. */
 	line-height: 140%; 	/* A little extra leading. */
 	font-family: Times New Roman;
 }
 
 h1 {
-	color: Gold; /* Same as body background. */
+	color: #BD8FE3; /* Same as body background. */
 	font-size: 200%;
 	padding: 2px 10px 2px; /* You want three values. */
 	font-weight: Bold;
@@ -29,9 +29,9 @@ h2 {
 }
 
 h3 {
-	margin: 5px 50px 75px; /*Three values again. You got the idea.*/
-	padding-top: _______;
-	font-size: _______;
+	margin: 10px 100px 10px; /*Three values again. You got the idea.*/
+	padding-top: 5px;
+	font-size: 200%;
 	color: _______;
 	font-weight: _______;
 	text-transform: _______;
