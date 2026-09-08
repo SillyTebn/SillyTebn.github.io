@@ -15,7 +15,7 @@ body {
 h1 {
 	color: Blue; /* Same as body background. */
 	font-size: 200%;
-	padding: 50px 10px 50px; /* You want three values. */
+	padding: 50px 50px 20px; /* You want three values. */
 	font-weight: Bold;
 	text-transform: uppercase;
 }
