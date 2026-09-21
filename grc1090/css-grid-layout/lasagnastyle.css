@@ -7,6 +7,11 @@ img {
      display: block;
 }
 
+div.container {
+    max-width: 20em;
+    margin: auto;
+}
+
 header {
     background-color: #FF8800; 
 }
