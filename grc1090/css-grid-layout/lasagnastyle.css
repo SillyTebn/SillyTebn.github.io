@@ -2,18 +2,36 @@
 
 html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit;} /*My edited version of the Eric Meyer’s reset tool. You may want to include this in all of your future CSS files. */
 
+figure {
+    display: grid;
+    grid-template-columns: 75% 25%;
+}
+
 img {
     width: 100%; /*Please leave this line.*/
      display: block;
+     background-color: white;
 }
 
 div.container {
-    max-width: 20em;
+    max-width: 60em;
     margin: auto;
+    display: grid;
+    background-color: white;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
 }
 
 header {
     background-color: #FF8800; 
+}
+
+body {
+    background-color: lightgrey;
 }
 
 h1 {
@@ -34,6 +52,8 @@ h2 {
     padding: 0rem 1rem 1rem;
 }
 
+
+
 figcaption {
     font-family: poppins, sans-serif;  
     font-weight: 400;  
@@ -42,6 +62,9 @@ figcaption {
 }
 
 h3 {
+    border-top:5px solid #FF8800; 
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5em;
     font-family: Sutro, serif;  
     font-weight: 300;  
     font-style: normal;
