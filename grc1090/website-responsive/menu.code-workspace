@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "menu",
+			"path": ".."
+		},
+		{
+			"name": "GRC 338 proposal template",
+			"path": "../../Downloads/GRC 338 proposal template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "menu"
+	}
+}
