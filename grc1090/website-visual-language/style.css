@@ -208,14 +208,14 @@ nav ul li {
 }
 
 nav ul li a {
-	color: yellow;
-	background-color: blue;
+	color: rgb(92, 8, 92);
+	background-color:#f38596;
 	padding: 0.4rem 0.4rem 0.4rem;
 }
 
 nav ul li a.active {
-	color: white;
-	background-color: orange;
+	color: #f38596;
+	background-color: rgb(92, 8, 92);
 }
 
 
@@ -225,6 +225,8 @@ p.slogan {
 	font-style: italic;
 	margin: 2rem 0rem 10rem;
 	color: white;
+	display: flex;
+	justify-content: center;
 }
 
 footer {
@@ -239,6 +241,8 @@ footer {
 
 address {
 	color: rgb(255, 136, 0);
+	text-align: center;
+	align-items: center;
 }
 
 footer p {
@@ -248,7 +252,6 @@ footer p {
 article {
 	background-color: peachpuff;
 }
-
 
 
 @media screen and (min-width: 40em) {
